@@ -1,6 +1,6 @@
 #  OIB-SIP [Oasis-Infobyte] Internship Tasks Repository
    
-   Welcome to the CodSoft Internship Tasks Repository! This repository contains all the tasks I have completed during my internship at [Oasis-Infobyte]. Each task is organized into separate folders for easy reference.
+   Welcome to the Oasis-Infobyte Tasks Repository! This repository contains all the tasks I have completed during my internship at [Oasis-Infobyte]. Each task is organized into separate folders for easy reference.
 
 ## Table of Contents
 
